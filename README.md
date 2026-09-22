@@ -52,6 +52,7 @@ The list uses two levels: **Area → Category**. Area headings follow Research T
 - **RAG Foundations:** Core retrieval–generation architectures and learning methods.
 - **Table Discovery:** Finding relevant tables in data lakes; these methods support retrieval without necessarily implementing a full RAG pipeline.
 - **Retrieval and Search Agents:** Learning retrieval policies and multi-step search strategies.
+- **Benchmarks and Evaluation:** End-to-end evaluation of RAG performance, answer quality, resource usage, and dynamic workloads.
 
 | Category | Paper | Venue | Year | Links |
 | --- | --- | --- | --- | --- |
@@ -64,6 +65,7 @@ The list uses two levels: **Area → Category**. Area headings follow Research T
 | RAG Foundations | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | NeurIPS | 2020 | [Paper](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf) |
 | Table Discovery | Fantastic Tables and Where to Find Them: Table Search in Semantic Data Lakes | EDBT | 2025 | [Paper](https://www.openproceedings.org/2025/conf/edbt/paper-108.pdf) |
 | Retrieval and Search Agents | s3: You Don’t Need That Much Data to Train a Search Agent via RL | EMNLP | 2025 | [Paper](https://aclanthology.org/2025.emnlp-main.1095/) · [PDF](https://aclanthology.org/2025.emnlp-main.1095.pdf) |
+| Benchmarks and Evaluation | RAGPerf: An End-to-End Benchmarking Framework for Retrieval-Augmented Generation Systems | PVLDB | 2026 | [Paper](https://arxiv.org/abs/2603.10765) · [PDF](https://www.vldb.org/pvldb/vol19/p3689-li.pdf) · [Code](https://github.com/platformxlab/RAGPerf) |
 
 ### Vector databases and Approximate Nearest Neighbor (ANN) search
 
